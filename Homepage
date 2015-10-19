@@ -2,7 +2,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <p style= "font-size: 60px; text-align: center;">FriendZone</p>
+   <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+   <title>FriendZone</title>
   </head>
-  <body>
+  <body>   
+   <p style= "font-size: 60px; text-align: center;"> FriendZone </p>       
+   <br style="margin-bottom:240px;"/>
+   <p style="text-align:left;">
+   Find
+   <span style="float:right;">Post</span>
+   </p>
+  </body>
 </html>
